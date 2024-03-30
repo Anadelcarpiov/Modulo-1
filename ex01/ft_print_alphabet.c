@@ -9,9 +9,3 @@ void ft_print_alphabet(void)
         abc = abc + 1;
     }
 }
-
-int main() 
-{
-    ft_print_alphabet();
-    return 0;
-}
