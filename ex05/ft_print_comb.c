@@ -19,6 +19,7 @@ void ft_print_comb(void)
                 write(1,&c3,1);
                 write(1,",",1);
                 write(1," ",1);
+                
 
                 c3++;
             }
